@@ -1,13 +1,22 @@
+:root {
+    --default-text-color: #230616;
+    --default-background-color: #f3d0b4;
+    --primary-color: #cc5500;
+    --secondary-color: #f9dcec;
+    --accent: #1ec9c9;
+}
+
 body {
     margin: 0;
     padding: 0;
-    /* background-color: #c5dfda; */
+    /* background-color: var(--default-background-color); */
     font-family: "Tahoma", sans-serif;
 }
 
 html {
     height: 100%;
-    background: linear-gradient(
+    background: var(--default-background-color);
+    /* background: linear-gradient(
         75deg,
         rgba(255, 0, 0, 1) 0%,
         rgba(255, 154, 0, 1) 10%,
@@ -20,7 +29,7 @@ html {
         rgba(186, 12, 248, 1) 80%,
         rgba(251, 7, 217, 1) 90%,
         rgba(255, 0, 0, 1) 100%
-    );
+    ); */
 }
 
 .content {
@@ -51,20 +60,21 @@ html {
 }
 
 .directory-bar {
-    background-color: #b9b6b68f;
+    background-color: var(--accent);
     padding: 10px;
     display: inline-flex;
     border-radius: 0 0 15px 0;
     flex-grow: 1;
+    color: var(--secondary-color);
 }
 
 .directory-bar a {
     margin-right: 25px;
     text-decoration: none;
-    color: #333;
     font-weight: bold;
     font-size: 24px;
     font-family: Verdana, sans-serif;
+    color: var(--default-text-color);
 }
 
 .social-bar {
@@ -72,7 +82,7 @@ html {
     bottom: 0;
     left: 0;
     border-top-right-radius: 15px;
-    background-color: #b9b6b68f;
+    background-color: var(--secondary-color);
     padding: 10px;
     display: flex;
     justify-content: center;
