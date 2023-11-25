@@ -1,0 +1,135 @@
+{
+    "uuid": "/var/www/html/testing/d151f08a-da85-4edb-b4db-4d96a030b735",
+    "inventory": {
+        "0": {
+            "Item": "stone_sword",
+            "Amount": 1
+        },
+        "1": {
+            "Item": "stone_axe",
+            "Amount": 1
+        },
+        "2": {
+            "Item": "stone_pickaxe",
+            "Amount": 1
+        },
+        "3": {
+            "Item": "stone_shovel",
+            "Amount": 1
+        },
+        "4": {
+            "Item": "stone_hoe",
+            "Amount": 1
+        },
+        "5": {
+            "Item": "crafting_table",
+            "Amount": 1
+        },
+        "7": {
+            "Item": "furnace",
+            "Amount": 1
+        },
+        "8": {
+            "Item": "melon_slice",
+            "Amount": 25
+        },
+        "9": {
+            "Item": "cobblestone",
+            "Amount": 6
+        },
+        "10": {
+            "Item": "writable_book",
+            "Amount": 1
+        },
+        "11": {
+            "Item": "bread",
+            "Amount": 16
+        },
+        "12": {
+            "Item": "jungle_log",
+            "Amount": 26
+        },
+        "13": {
+            "Item": "stick",
+            "Amount": 6
+        },
+        "14": {
+            "Item": "bamboo",
+            "Amount": 11
+        },
+        "15": {
+            "Item": "sugar_cane",
+            "Amount": 16
+        },
+        "16": {
+            "Item": "white_bed",
+            "Amount": 1
+        },
+        "17": {
+            "Item": "orange_bed",
+            "Amount": 1
+        },
+        "18": {
+            "Item": "white_wool",
+            "Amount": 2
+        },
+        "20": {
+            "Item": "bread",
+            "Amount": 64
+        },
+        "21": {
+            "Item": "arrow",
+            "Amount": 1
+        },
+        "22": {
+            "Item": "cookie",
+            "Amount": 40
+        },
+        "24": {
+            "Item": "bone",
+            "Amount": 2
+        },
+        "25": {
+            "Item": "flint",
+            "Amount": 1
+        },
+        "26": {
+            "Item": "feather",
+            "Amount": 9
+        },
+        "28": {
+            "Item": "torch",
+            "Amount": 1
+        },
+        "29": {
+            "Item": "bread",
+            "Amount": 64
+        },
+        "30": {
+            "Item": "jungle_sapling",
+            "Amount": 2
+        },
+        "31": {
+            "Item": "wheat",
+            "Amount": 2
+        },
+        "32": {
+            "Item": "wheat_seeds",
+            "Amount": 14
+        },
+        "33": {
+            "Item": "mutton",
+            "Amount": 8
+        },
+        "34": {
+            "Item": "string",
+            "Amount": 2
+        },
+        "35": {
+            "Item": "jungle_door",
+            "Amount": 3
+        }
+    },
+    "enderchest": {
+    }
+}

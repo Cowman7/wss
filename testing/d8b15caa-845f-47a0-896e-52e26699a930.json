@@ -1,0 +1,119 @@
+{
+    "uuid": "/var/www/html/testing/d8b15caa-845f-47a0-896e-52e26699a930",
+    "inventory": {
+        "0": {
+            "Item": "stone_sword",
+            "Amount": 1
+        },
+        "1": {
+            "Item": "stone_axe",
+            "Amount": 1
+        },
+        "2": {
+            "Item": "stone_pickaxe",
+            "Amount": 1
+        },
+        "3": {
+            "Item": "stone_shovel",
+            "Amount": 1
+        },
+        "4": {
+            "Item": "bamboo_planks",
+            "Amount": 3
+        },
+        "5": {
+            "Item": "porkchop",
+            "Amount": 7
+        },
+        "6": {
+            "Item": "leather",
+            "Amount": 22
+        },
+        "7": {
+            "Item": "cooked_porkchop",
+            "Amount": 4
+        },
+        "8": {
+            "Item": "bread",
+            "Amount": 36
+        },
+        "9": {
+            "Item": "chicken",
+            "Amount": 9
+        },
+        "10": {
+            "Item": "egg",
+            "Amount": 1
+        },
+        "11": {
+            "Item": "hay_block",
+            "Amount": 1
+        },
+        "12": {
+            "Item": "white_wool",
+            "Amount": 10
+        },
+        "13": {
+            "Item": "mutton",
+            "Amount": 17
+        },
+        "14": {
+            "Item": "cobblestone",
+            "Amount": 2
+        },
+        "15": {
+            "Item": "crafting_table",
+            "Amount": 1
+        },
+        "16": {
+            "Item": "bamboo",
+            "Amount": 4
+        },
+        "17": {
+            "Item": "cocoa_beans",
+            "Amount": 3
+        },
+        "18": {
+            "Item": "furnace",
+            "Amount": 1
+        },
+        "19": {
+            "Item": "melon_slice",
+            "Amount": 60
+        },
+        "20": {
+            "Item": "wheat_seeds",
+            "Amount": 1
+        },
+        "21": {
+            "Item": "melon_seeds",
+            "Amount": 1
+        },
+        "23": {
+            "Item": "jungle_planks",
+            "Amount": 4
+        },
+        "33": {
+            "Item": "emerald",
+            "Amount": 3
+        },
+        "34": {
+            "Item": "beef",
+            "Amount": 33
+        },
+        "100": {
+            "Item": "leather_boots",
+            "Amount": 1
+        },
+        "102": {
+            "Item": "leather_chestplate",
+            "Amount": 1
+        },
+        "103": {
+            "Item": "leather_helmet",
+            "Amount": 1
+        }
+    },
+    "enderchest": {
+    }
+}
